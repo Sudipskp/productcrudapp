@@ -1,8 +1,2 @@
-Module -
-Add Product
-Update
-Delete
-Technology-
- Spring Mvc
- Bootstrap
- Mysql
+Module -Add Product, Update, Delete
+Technology- Spring Mvc, Bootstrap, Mysql
